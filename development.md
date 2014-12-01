@@ -6,6 +6,10 @@
 
 [coderwall](http://www.coderwall.com)
 
-[Chrome Extension Getting Started](https://developer.chrome.com/extensions/getstarted)
+[Chrome Extension Getting Started #chromedev](https://developer.chrome.com/extensions/getstarted)
 
 [Dropbox Developer API](https://www.dropbox.com/developers)
+
+[Extensionizr #chromedev](http://extensionizr.com)
+
+[Chrome Developer](https://developer.chrome.com)
