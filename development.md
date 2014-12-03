@@ -13,3 +13,5 @@
 [Extensionizr #chromedev](http://extensionizr.com)
 
 [Chrome Developer](https://developer.chrome.com)
+
+[Dropbox.js #publicapi](https://github.com/dropbox/dropbox-js)
